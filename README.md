@@ -2,7 +2,7 @@
 To integrate with AWS, first practice for AWS
 
 
-**Title:** Create an AWS account
+**✍Title:** Create an AWS account
 
 **User Stories**
 
@@ -13,7 +13,7 @@ To integrate with AWS, first practice for AWS
 * As a developer, I want to set up a billing alert.
 
 
-**Title:** Set up API endpoints
+**✍Title:** Set up API endpoints
 
 **User Stories**
 
@@ -24,7 +24,7 @@ To integrate with AWS, first practice for AWS
 * As a developer, I need to create a route to create a thought.
 
 
-**Title:** Integrate the database calls into the front end
+**✍Title:** Integrate the database calls into the front end
 
 **User Stories**
 
@@ -35,7 +35,7 @@ To integrate with AWS, first practice for AWS
 * As a user, I want to view thoughts of a user
 
 
-**Title:** Add Images to the Application
+**✍Title:** Add Images to the Application
 
 **User Stories**
 
@@ -46,7 +46,7 @@ To integrate with AWS, first practice for AWS
 * As a user, I want to view images of a user
 
 
-**Title:** Deploy the app to an EC2 instance
+**✍Title:** Deploy the app to an EC2 instance
 
 **User Stories**
 
